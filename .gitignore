@@ -1,0 +1,7 @@
+/PluginUICollect/Binaries
+/PluginUICollect/Intermediate
+/PluginUICollect/.vs
+/PluginUICollect/Saved
+/PluginUICollect/*.sln
+/PluginUICollect/*.user
+/PluginUICollect/Plugins/UITemplate/Intermediate
